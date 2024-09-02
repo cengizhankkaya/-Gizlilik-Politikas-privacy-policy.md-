@@ -1,0 +1,1 @@
+# -Gizlilik-Politikas-privacy-policy.md-
