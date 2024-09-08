@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy explains how [App Name] weather application collects, uses, and protects your personal and device data.
+This privacy policy explains how Fweather application collects, uses, and protects your personal and device data.
 
 ## Data We Collect
 
