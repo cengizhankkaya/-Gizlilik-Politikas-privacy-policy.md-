@@ -39,4 +39,4 @@ If you have any questions about our privacy policy, please contact us at:
 
 This privacy policy may be updated from time to time. Any changes will be posted in the app or on our website.
 
-**Last Updated:** 02.09.2024
+**Last Updated:** 08.09.2024
